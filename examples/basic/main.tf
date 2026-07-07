@@ -22,14 +22,14 @@ module "vpc" {
 }
 
 module "kms" {
-  source  = "schubergphilis/mcaf-kms/aws"
+  source  = "schubergphilis-ep/mcaf-kms/aws"
   version = "0.3.0"
 
   name = "MyClientVPN"
 }
 
 module "security_group" {
-  source  = "schubergphilis/mcaf-security-group/aws"
+  source  = "schubergphilis-ep/mcaf-security-group/aws"
   version = "~> 2.0"
 
   name_prefix = "MyClientVPN-sg-"
