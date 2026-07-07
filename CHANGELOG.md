@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.1.1](https://github.com/schubergphilis-ep/terraform-aws-mcaf-clientvpn/compare/v1.1.0...v1.1.1) (2026-07-07)
+
+
+### 🐛 Fixes
+
+* migrate MCAF module sources ([#2](https://github.com/schubergphilis-ep/terraform-aws-mcaf-clientvpn/issues/2)) ([c4b2249](https://github.com/schubergphilis-ep/terraform-aws-mcaf-clientvpn/commit/c4b2249b6017adf7fa4cee929291c1d51317dd54))
+
 ## [1.1.0](https://github.com/schubergphilis-ep/terraform-aws-mcaf-clientvpn/compare/v1.0.0...v1.1.0) (2025-05-21)
 
 
@@ -36,4 +43,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.1.1](https://github.com/schubergphilis-ep/terraform-aws-mcaf-clientvpn/compare/v0.1.0...v0.1.1) (2020-09-22)
 
 ## 0.1.0 (2020-09-09)
-
